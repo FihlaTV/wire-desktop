@@ -1,13 +1,13 @@
 {
-  "name": "wireinternal",
-  "productName": "WireInternal",
-  "description": "Secure messenger for everyone.",
+  "name": "AirlipsInt",
+  "productName": "Airlips_Internal",
+  "description": "An all in one Messenger .",
   "main": "main.js",
   "updateWinUrl": "https://wire-app.wire.com/win/internal/",
   "environment": "internal",
   "homepage": "https://wire.com",
   "license": "GPL-3.0",
-  "author": "Wire Swiss <wireapp@wire.com>",
+  "author": "ENCORE Telecomms <infor@airlips.net>",
   "private": true,
   "repository": {
     "type": "git",
