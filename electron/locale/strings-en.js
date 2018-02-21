@@ -3,9 +3,9 @@
 let string = {};
 
 string.aboutReleases = 'Releases';
-string.aboutUpdate = 'How Wire Updates Work';
+string.aboutUpdate = 'How Airlips Updates Work';
 string.aboutVersion = 'Version';
-string.aboutWebappVersion = 'Wire for Web Version';
+string.aboutWebappVersion = 'Airlips for Web Version';
 
 string.menuConversation = 'Conversation';
 string.menuStart = 'Start';
@@ -13,13 +13,13 @@ string.menuEdit = 'Edit';
 string.menuWindow = 'Window';
 string.menuView = 'View';
 string.menuHelp = 'Help';
-string.menuStartup = 'Launch Wire on Startup';
+string.menuStartup = 'Launch Airlips on Startup';
 string.menuLocale = 'Language';
-string.menuAbout = 'About Wire';
+string.menuAbout = 'About Airlips';
 string.menuSignOut = 'Log Out';
 string.menuPing = 'Ping';
-string.menuCall = 'Call';
-string.menuVideoCall = 'Video Call';
+string.menuCall = 'AirCall';
+string.menuVideoCall = 'Face-2-Face Call';
 string.menuPeople = 'People';
 string.menuAddPeople = 'Add People...';
 string.menuArchive = 'Archive';
@@ -45,14 +45,14 @@ string.menuLegal = 'Legal';
 string.menuPrivacy = 'Privacy';
 string.menuLicense = 'License Information';
 string.menuSupport = 'Support Website';
-string.menuWireURL = 'Wire Website';
+string.menuWireURL = 'Airlips Website';
 string.menuPreferences = 'Preferences';
 string.menuServices = 'Services';
-string.menuHideWire = 'Hide Wire';
+string.menuHideWire = 'Hide Airlips';
 string.menuHideOthers = 'Hide Others';
 string.menuShowAll = 'Show All';
 string.menuSettings = 'Settings';
-string.menuQuit = 'Quit Wire';
+string.menuQuit = 'Quit Airlips';
 string.menuShowHide = 'Show Menu';
 string.menuSavePictureAs = 'Save Picture As...';
 string.menuNoSuggestions = 'No Suggestions';
@@ -65,7 +65,7 @@ string.restartNow = 'Restart Now';
 string.trayOpen = 'Open';
 string.trayQuit = 'Quit';
 
-string.unreadMessages = 'Unread message';
+string.unreadMessages = 'Unread Texts';
 
 string.wrapperAddAccount = 'Add Account';
 string.wrapperCreateTeam = 'Create Team';
